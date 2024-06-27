@@ -12,4 +12,5 @@ These 3 implementations are in
   - For stacks => Part A/stack_a.cpp
   - For stacks implemented using arrays => Part B/stack_b.cpp
   - For stacks implemented using doublyLinkedList => Part C/stack_c.cpp, node_c.cpp, and list.cpp
-**DONT DELETE OR MOVE THE .h FILES**
+
+- **DONT DELETE OR MOVE THE .h FILES**
